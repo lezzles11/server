@@ -1,15 +1,16 @@
-
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"drinks": [
+    { 
+        "id": "starbucks-frappucino",
+        "name": "Starbucks Chocolate Frappuccino",
+        "details": "It consists of coffee or cream, mixed with ice and other ingredients, usually topped with whipped cream and flavored syrups.",
+        "price": "$9.99",
+        "image": "https://cdn140.picsart.com/263949329012212.png?r1024x1024"
+    },
+    { 
+        "id": "healthy-coffee-starbucks",
+        "name": "Starbucks Coffee",
+        "details": "Coffee with cream, chocolate and other ingredients",
+        "price": "$8.00",
+        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F522462%2Fsbx20190429-summer-menu-smores-frappuccino.png&w=700&op=resize"
+    }
+]}
