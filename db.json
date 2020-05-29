@@ -1,16 +1,18 @@
-{"drinks": [
+{"cakes": [
     { 
-        "id": "starbucks-frappucino",
-        "name": "Starbucks Chocolate Frappuccino",
-        "details": "It consists of coffee or cream, mixed with ice and other ingredients, usually topped with whipped cream and flavored syrups.",
-        "price": "$9.99",
-        "image": "https://cdn140.picsart.com/263949329012212.png?r1024x1024"
+        "id": "1",
+        "name": "Signature Pandan Cake",
+        "details": "The pandan chiffon cake is dense and fluffy. The aroma is derived from pandan leaves.", 
+        "price": "$50",
+        "serves": "Serves around 10 people", 
+        "image": "https://twosleevers.com/wp-content/uploads/2019/12/IP-Veg-Steamed-Pandan-sponge-cake-900-x-680.jpg"
     },
     { 
-        "id": "healthy-coffee-starbucks",
-        "name": "Starbucks Coffee",
-        "details": "Coffee with cream, chocolate and other ingredients",
-        "price": "$8.00",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F522462%2Fsbx20190429-summer-menu-smores-frappuccino.png&w=700&op=resize"
+        "id": "2",
+        "name": "Soft and Fluffy Pandan Cake",
+        "details": "Best served with ",
+        "price": "$50.00",
+        "serves": "Serves around 10 people", 
+        "image": "https://cdn.cnn.com/cnnnext/dam/assets/160812101020-national-cakes-bengawan-solo-pandan.jpg"
     }
 ]}
